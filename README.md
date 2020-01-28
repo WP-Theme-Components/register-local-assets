@@ -1,1 +1,3 @@
-# register-local-asset
+# Register Local Assets
+
+Efficient script and stylesheet registration
