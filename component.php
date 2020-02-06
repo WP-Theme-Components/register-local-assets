@@ -2,7 +2,8 @@
 /**
  * Efficient script and stylesheet registration
  *
- * @package WP-Theme-Components\Register-Local-Assets
+ * @package WP-Theme-Components
+ * @subpackage Register-Local-Assets
  * @author Cameron Jones
  * @version 1.0.0
  */
