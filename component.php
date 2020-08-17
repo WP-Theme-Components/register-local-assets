@@ -5,7 +5,8 @@
  * @package WP-Theme-Components
  * @subpackage Register-Local-Assets
  * @author Cameron Jones
- * @version 1.0.0
+ * @version 1.0.1
+ * @link https://github.com/WP-Theme-Components/register-local-assets
  */
 
 namespace WP_Theme_Components\Register_Local_Assets;
